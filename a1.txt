@@ -4,7 +4,7 @@
   http://go.microsoft.com/fwlink/?LinkId=152368
   -->
 <configuration>
-  <configSections>
+  <configSections>11
     <section name="nlog" type="NLog.Config.ConfigSectionHandler, NLog" />
 
   </configSections>
